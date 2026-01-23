@@ -15,19 +15,6 @@ Desenvolvedor **Backend Java** com foco em **Spring Boot** e **arquitetura de mi
 
 ## 📌 Projetos em Destaque
 
-### 🔹 Microsserviços com Spring Cloud
-
-Arquitetura backend baseada em microsserviços, aplicando padrões utilizados em ambientes reais.
-
-* Service Discovery (Eureka)
-* Config Server
-* API Gateway
-* Comunicação entre serviços
-
-➡️ [https://github.com/miqueelino/java-microservices-spring-cloud](https://github.com/miqueelino/java-microservices-spring-cloud)
-
----
-
 ### 🔹 API REST com Spring Boot + JPA
 
 API REST para consolidação de fundamentos backend.
