@@ -17,11 +17,13 @@ Desenvolvedor **Backend Java** com foco em **Spring Boot** e **arquitetura de mi
 
 ### 🔹 API REST com Spring Boot + JPA
 
-API REST para consolidação de fundamentos backend.
+API REST desenvolvida com Spring Boot aplicando boas práticas de backend e arquitetura em camadas.
 
 * CRUD completo
+* Arquitetura em camadas (Controller, Service, Repository)
 * Relacionamentos com JPA/Hibernate
 * Tratamento de exceções
+
 
 ➡️ [https://github.com/miqueelino/workshop-springboot4-jpa](https://github.com/miqueelino/workshop-springboot4-jpa)
 
@@ -29,18 +31,19 @@ API REST para consolidação de fundamentos backend.
 
 ### 🔹 API REST com Spring Boot + MongoDB
 
-Projeto backend utilizando banco NoSQL.
+API REST desenvolvida com Spring Boot utilizando banco NoSQL (MongoDB), aplicando boas práticas de backend.
 
 * Modelagem de documentos
-* Persistência com MongoDB
+* Persistência com Spring Data MongoDB
+* Estrutura em camadas (Controller, Service, Repository)
 
-➡️ [https://github.com/miqueelino/projeto-spring-boot-mongodb](https://github.com/miqueelino/projeto-spring-boot-mongodb)
+➡️ https://github.com/miqueelino/projeto-spring-boot-mongodb
 
 ---
 
 ## 🔗 Contato
 
-* LinkedIn: [https://www.linkedin.com/in/joao-miquelino](https://www.linkedin.com/in/joao-miquelino)
-* GitHub: [https://github.com/miqueelino](https://github.com/miqueelino)
+* LinkedIn: https://www.linkedin.com/in/joao-miquelino
+* GitHub: https://github.com/miqueelino
 
-Projetos em constante evolução.
+Projetos em constante evolução, com foco em qualidade de código e boas práticas backend.
