@@ -1,49 +1,85 @@
 # João Miquelino
 
-Desenvolvedor **Backend Java** com foco em **Spring Boot** e **arquitetura de microsserviços**. Experiência prática no desenvolvimento de **APIs REST**, integração com bancos de dados relacionais e NoSQL e uso de **Spring Cloud** em projetos reais.
+Desenvolvedor **Backend Java** com foco em **Spring Boot, segurança de APIs e arquitetura de microsserviços**.
+
+Experiência prática no desenvolvimento de **APIs REST escaláveis**, autenticação com **OAuth2 + JWT**, comunicação entre serviços com **Spring Cloud** e construção de sistemas distribuídos seguindo boas práticas adotadas em ambientes corporativos.
 
 ---
 
-## 🛠️ Stack
+## Especialidades
 
-* Java | Spring Boot | Spring Data JPA | Spring Cloud
-* APIs REST | Hibernate
-* MySQL | PostgreSQL | MongoDB
-* Git | GitHub | Maven
+- Desenvolvimento de APIs REST com Spring Boot
+- Arquitetura de Microsserviços com Spring Cloud
+- Segurança com Spring Security, OAuth2 e JWT
+- Integração com bancos relacionais e NoSQL
+- Boas práticas: arquitetura em camadas, tratamento de exceções, separação de responsabilidades
 
 ---
 
-## 📌 Projetos em Destaque
+##  Stack Principal
+
+**Backend**
+- Java 17
+- Spring Boot
+- Spring Cloud
+- Spring Security
+- Spring Data JPA
+- Hibernate
+
+**Banco de Dados**
+- MySQL
+- PostgreSQL
+- MongoDB
+
+**Ferramentas**
+- Maven
+- Git
+- GitHub
+
+---
+
+##  Projetos em Destaque
+
+### 🔹 Java Microservices Architecture – Spring Cloud Ecosystem
+
+Ecossistema completo de microsserviços incluindo:
+
+- Service Discovery (Eureka)
+- Configuração centralizada (Config Server)
+- API Gateway (Zuul)
+- Autenticação e autorização com OAuth2 + JWT
+- Comunicação entre serviços (Feign Client)
+
+➡️ https://github.com/miqueelino/java-microservices-spring-cloud
+
+---
 
 ### 🔹 API REST com Spring Boot + JPA
 
-API REST desenvolvida com Spring Boot aplicando boas práticas de backend e arquitetura em camadas.
+- CRUD completo
+- Arquitetura em camadas
+- Relacionamentos com JPA/Hibernate
+- Tratamento de exceções
 
-* CRUD completo
-* Arquitetura em camadas (Controller, Service, Repository)
-* Relacionamentos com JPA/Hibernate
-* Tratamento de exceções
-
-
-➡️ [https://github.com/miqueelino/workshop-springboot4-jpa](https://github.com/miqueelino/workshop-springboot4-jpa)
+➡️ https://github.com/miqueelino/workshop-springboot4-jpa
 
 ---
 
 ### 🔹 API REST com Spring Boot + MongoDB
 
-API REST desenvolvida com Spring Boot utilizando banco NoSQL (MongoDB), aplicando boas práticas de backend.
-
-* Modelagem de documentos
-* Persistência com Spring Data MongoDB
-* Estrutura em camadas (Controller, Service, Repository)
+- Modelagem de documentos
+- Persistência com Spring Data MongoDB
+- Estrutura em camadas
 
 ➡️ https://github.com/miqueelino/projeto-spring-boot-mongodb
 
 ---
 
-##  Contato
+## Contato
 
-* LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-miquelino-95ba34202/
-* GitHub: https://github.com/miqueelino
+LinkedIn: https://www.linkedin.com/in/joão-miquelino-95ba34202  
+GitHub: https://github.com/miqueelino  
 
-Projetos em constante evolução, com foco em qualidade de código e boas práticas backend.
+---
+
+Projetos em constante evolução, com foco em qualidade de código, arquitetura limpa e boas práticas backend.
