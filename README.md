@@ -41,7 +41,7 @@ API REST desenvolvida com Spring Boot utilizando banco NoSQL (MongoDB), aplicand
 
 ---
 
-## 🔗 Contato
+##  Contato
 
 * LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-miquelino-95ba34202/
 * GitHub: https://github.com/miqueelino
