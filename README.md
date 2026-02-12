@@ -35,6 +35,7 @@ Experiência prática no desenvolvimento de **APIs REST escaláveis**, autentica
 - Maven
 - Git
 - GitHub
+- Postman
 
 ---
 
