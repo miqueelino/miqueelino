@@ -8,37 +8,55 @@ Atuação orientada a **boas práticas, arquitetura em camadas, separação de r
 
 ---
 
-## Stack Principal
+## 🚀 Stack Principal
 
-### Backend
-- Java 17
-- Spring Boot
-- Spring Cloud
-- Spring Security
-- Spring Data JPA / Hibernate
+### 💻 Backend
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Hibernate](https://skillicons.dev/icons?i=hibernate)
 
-### Banco de Dados
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Ferramentas
-- Maven
-- Git
-- Postman
+- Java 17  
+- Spring Boot  
+- Spring Cloud  
+- Spring Security  
+- Spring Data JPA / Hibernate  
 
 ---
 
-## Projetos
+### 🗄 Banco de Dados
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+---
+
+### 🛠 Ferramentas
+![Maven](https://skillicons.dev/icons?i=maven)
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+- Maven  
+- Git  
+- Postman  
+
+---
+
+## 📌 Projetos
 
 Os principais projetos estão fixados no perfil e demonstram aplicação prática de:
 
-- Microsserviços com Service Discovery, API Gateway e Config Server
-- Autenticação e autorização com OAuth2 + JWT
-- Integração entre serviços com Feign Client
-- APIs REST com bancos relacionais e NoSQL
+- Microsserviços com Service Discovery, API Gateway e Config Server  
+- Autenticação e autorização com OAuth2 + JWT  
+- Integração entre serviços com Feign Client  
+- APIs REST com bancos relacionais e NoSQL  
 
 ---
+
+## 🔗 Contato
 
 **LinkedIn:**  
 https://www.linkedin.com/in/joão-miquelino-95ba34202
