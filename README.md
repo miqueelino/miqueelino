@@ -8,9 +8,9 @@ Atuação orientada a **boas práticas, arquitetura em camadas, separação de r
 
 ---
 
-## 🚀 Stack Principal
+## Stack Principal
 
-### 💻 Backend
+### Backend
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Hibernate](https://skillicons.dev/icons?i=hibernate)
@@ -23,7 +23,7 @@ Atuação orientada a **boas práticas, arquitetura em camadas, separação de r
 
 ---
 
-### 🗄 Banco de Dados
+### Banco de Dados
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -34,7 +34,7 @@ Atuação orientada a **boas práticas, arquitetura em camadas, separação de r
 
 ---
 
-### 🛠 Ferramentas
+### Ferramentas
 ![Maven](https://skillicons.dev/icons?i=maven)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Postman](https://skillicons.dev/icons?i=postman)
@@ -45,7 +45,7 @@ Atuação orientada a **boas práticas, arquitetura em camadas, separação de r
 
 ---
 
-## 📌 Projetos
+## Projetos
 
 Os principais projetos estão fixados no perfil e demonstram aplicação prática de:
 
@@ -56,7 +56,7 @@ Os principais projetos estão fixados no perfil e demonstram aplicação prátic
 
 ---
 
-## 🔗 Contato
+## Contato
 
 **LinkedIn:**  
 https://www.linkedin.com/in/joão-miquelino-95ba34202
