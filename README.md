@@ -2,7 +2,7 @@
 
 Desenvolvedor Backend Java especializado na construção de APIs REST escaláveis com Spring Boot e arquitetura de microsserviços.
 
-Experiência em sistemas distribuídos com Spring Cloud, implementação de segurança com OAuth2 + JWT e comunicação entre serviços. Atuação orientada a arquitetura em camadas, SOLID e Clean Code.
+Experiência em sistemas distribuídos com Spring Cloud, implementação de segurança com OAuth2 + JWT e integração entre serviços. Atuação orientada a arquitetura em camadas, SOLID e Clean Code.
 
 Fundador da ENCODE, iniciativa focada no desenvolvimento de soluções digitais com estrutura, performance e escalabilidade.
 
@@ -10,9 +10,9 @@ Fundador da ENCODE, iniciativa focada no desenvolvimento de soluções digitais 
 
 ## Stack
 
-**Backend:** Java 17 · Spring Boot · Spring Cloud · Spring Security · JPA/Hibernate  
-**Banco:** PostgreSQL · MySQL · MongoDB  
-**Ferramentas:** Git · Maven · Postman  
+Backend: Java 17 · Spring Boot · Spring Cloud · Spring Security · JPA/Hibernate  
+Banco: PostgreSQL · MySQL · MongoDB  
+Ferramentas: Git · Maven · Postman  
 
 ---
 
@@ -20,7 +20,7 @@ Fundador da ENCODE, iniciativa focada no desenvolvimento de soluções digitais 
 
 Os projetos fixados demonstram aplicação prática de:
 
-- Microsserviços (Gateway, Config Server, Service Discovery)
+- Arquitetura de microsserviços (Gateway, Config Server, Service Discovery)
 - Autenticação e autorização com JWT
 - Comunicação entre serviços
 - Integração com APIs externas
