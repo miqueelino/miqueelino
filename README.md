@@ -1,8 +1,8 @@
 # João Miquelino
 
-Desenvolvedor **Backend Java** focado na construção de **APIs REST escaláveis** com **Spring Boot** e arquitetura de **microsserviços**.
-
+Desenvolvedor Backend Java especializado na construção de APIs REST escaláveis com Spring Boot e arquitetura de microsserviços.
 Experiência prática com:
+
 - Sistemas distribuídos com Spring Cloud  
 - Segurança com OAuth2 + JWT  
 - Integração entre serviços  
