@@ -1,14 +1,10 @@
 # João Miquelino
 
 Desenvolvedor Backend Java especializado na construção de APIs REST escaláveis com Spring Boot e arquitetura de microsserviços.
-Experiência prática com:
 
-- Sistemas distribuídos com Spring Cloud  
-- Segurança com OAuth2 + JWT  
-- Integração entre serviços  
-- Arquitetura em camadas e boas práticas (SOLID, Clean Code)
+Experiência em sistemas distribuídos com Spring Cloud, implementação de segurança com OAuth2 + JWT e comunicação entre serviços. Atuação orientada a arquitetura em camadas, SOLID e Clean Code.
 
-Fundador da **ENCODE**, iniciativa voltada ao desenvolvimento de soluções digitais com foco em estrutura, performance e escalabilidade.
+Fundador da ENCODE, iniciativa focada no desenvolvimento de soluções digitais com estrutura, performance e escalabilidade.
 
 ---
 
