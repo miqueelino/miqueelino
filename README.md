@@ -4,7 +4,7 @@ Desenvolvedor Backend Java especializado na construção de APIs REST escalávei
 
 Experiência em sistemas distribuídos com Spring Cloud, implementação de segurança com OAuth2 + JWT e integração entre serviços. Atuação orientada a arquitetura em camadas, SOLID e Clean Code.
 
-Fundador da ENCODE, iniciativa focada no desenvolvimento de soluções digitais com estrutura, performance e escalabilidade.
+Fundador da ENCODE BYTES, iniciativa focada no desenvolvimento de soluções digitais com estrutura, performance e escalabilidade.
 
 ---
 
