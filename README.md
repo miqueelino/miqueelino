@@ -4,7 +4,7 @@ Desenvolvedor Backend Java com foco na construção de APIs REST escaláveis e s
 
 Experiência no desenvolvimento de microsserviços com comunicação entre serviços, implementação de segurança com OAuth2 e JWT, e aplicação de boas práticas como SOLID e Clean Code. Atuação com foco em performance, organização arquitetural e escalabilidade.
 
-Fundador da ENCODE BYTES (https://www.encodebytes.com.br), iniciativa voltada ao desenvolvimento de soluções backend modernas e escaláveis.
+Fundador da [ENCODE BYTES](https://www.encodebytes.com.br), iniciativa voltada ao desenvolvimento de soluções backend modernas e escaláveis.
 
 ---
 
