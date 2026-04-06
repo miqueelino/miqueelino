@@ -1,35 +1,25 @@
-# João Miquelino
+João Miquelino
+Desenvolvedor Backend Java com foco na construção de APIs REST escaláveis e sistemas distribuídos utilizando Spring Boot e Spring Cloud.
 
-Desenvolvedor Backend Java especializado na construção de APIs REST escaláveis com Spring Boot e arquitetura de microsserviços.
+Experiência no desenvolvimento de microsserviços com comunicação entre serviços, implementação de segurança com OAuth2 e JWT, e aplicação de boas práticas como SOLID e Clean Code. Atuação com foco em performance, organização arquitetural e escalabilidade.
 
-Experiência em sistemas distribuídos com Spring Cloud, implementação de segurança com OAuth2 + JWT e integração entre serviços. Atuação orientada a arquitetura em camadas, SOLID e Clean Code.
+Fundador da ENCODE BYTES [www.encodebytes.com.br], iniciativa voltada ao desenvolvimento de soluções backend modernas e escaláveis.
 
+Stack
 
-Fundador da [ENCODE BYTES](https://www.encodebytes.com.br/), iniciativa focada no desenvolvimento de soluções digitais com estrutura, performance e escalabilidade.
+Backend: Java 17 · Spring Boot · Spring Cloud · Spring Security · JPA/Hibernate
+Banco: PostgreSQL · MySQL · MongoDB
+Ferramentas: Git · Maven · Postman
 
+Projetos
 
----
+Os projetos fixados demonstram experiência prática em:
 
-## Stack
+Arquitetura de microsserviços (API Gateway, Config Server, Service Discovery)
+Autenticação e autorização com JWT
+Comunicação entre serviços
+Integração com APIs externas
+📌 Contato
 
-Backend: Java 17 · Spring Boot · Spring Cloud · Spring Security · JPA/Hibernate  
-Banco: PostgreSQL · MySQL · MongoDB  
-Ferramentas: Git · Maven · Postman  
-
----
-
-## Projetos
-
-Os projetos fixados demonstram aplicação prática de:
-
-- Arquitetura de microsserviços (Gateway, Config Server, Service Discovery)
-- Autenticação e autorização com JWT
-- Comunicação entre serviços
-- Integração com APIs externas
-
----
-
-## Contato
-
-LinkedIn:  
+LinkedIn:
 https://www.linkedin.com/in/joão-miquelino-95ba34202
